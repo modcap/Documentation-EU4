@@ -1,0 +1,24 @@
+CUDE = CULTURE:definition
+
+#COUNTRY SCOPE
+ADDE = ADVISOR:definition
+COCH = COUNTRY:chance
+CODE = COUNTRY:definition
+COHI = COUNTRY:history
+COMO = COUNTRY:modifier
+COOR = COUNTRY:origin
+COWE = COUNTRY:weight
+DEDE = DECISION:definition
+DIDE = DISASTER:definition
+GNDE = GNAMES:definition
+GODE = GOVERN:definition
+RUDE = RULER:definition
+
+#PROVINCE SCOPE
+BUDE = BUILDING:definition
+PRCH = PROVINCE:chance
+PRDE = PROVINCE:definition
+PRHI = PROVINCE:history
+PRMO = PROVINCE:modifier
+PRWE = PROVINCE:weight
+REDE = REVOLT:definition
